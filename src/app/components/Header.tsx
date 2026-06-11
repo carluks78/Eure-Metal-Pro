@@ -1,4 +1,4 @@
-import logoImg from "../../../imports/og-image.png";
+import logoImg from "../../assets/og-image.png";
 import { ImageWithFallback } from "./figma/ImageWithFallback";
 
 interface HeaderProps {
